@@ -4,7 +4,7 @@
 	font-family: monospace;
 	font-size: 100%;
    	background-color: #000000;
-   	color: #00ff00;
+   	color: blue;
 	margin: 5px;
    	padding: 5px;
 }
@@ -29,6 +29,7 @@
 }
 
 .logpage tr, td, th {
+    font-family: monospace;
 	padding: 15px;
 	margin: 5px;
 	vertical-align: top;
