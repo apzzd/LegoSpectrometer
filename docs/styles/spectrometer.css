@@ -9,6 +9,12 @@
    	padding: 5px;
 }
 
+#inverted img {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+   }
+
+
 .logpage a:link a:visited a:active {
 	color: #333333;
 	text-decoration: underline;
